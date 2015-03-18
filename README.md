@@ -38,6 +38,6 @@ To create and manage your services and devices on SAMI visit developer portal at
 Licence and Copyright
 ---------------------
 
-Licensed under the Apache License. See LICENCE.
+Licensed under the Apache License. See LICENSE.
 
 Copyright (c) 2015 Samsung Electronics Co., Ltd.
