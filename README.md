@@ -27,13 +27,13 @@ Check out Section [Setup and Installation](https://blog.samsungsami.io/mobile/de
 More about SAMI
 ---------------
 
-If you are not familiar with SAMI we have extensive documentation at http://developer.samsungsami.io
+If you are not familiar with SAMI, we have extensive documentation at http://developer.samsungsami.io
 
 The full SAMI API specification with examples can be found at http://developer.samsungsami.io/sami/api-spec.html
 
 We blog about advanced sample applications at http://blog.samsungsami.io/
 
-To create and manage your services and devices on SAMI visit developer portal at http://devportal.samsungsami.io
+To create and manage your services and devices on SAMI, visit developer portal at http://devportal.samsungsami.io
 
 Licence and Copyright
 ---------------------
