@@ -1,5 +1,5 @@
 # SAMI sample app SAMInBLE
-The sample Andriod app demonstrates how to collect measurements from Bluetooth Low Energy devices and then send to SAMI. 
+The sample Android app demonstrates how to collect measurements from Bluetooth Low Energy devices and then send to SAMI. 
 
 Introduction
 -------------
